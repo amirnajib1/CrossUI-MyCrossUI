@@ -29,6 +29,7 @@ xui.Class('App', 'xui.Module',{
                 .setLabelSize("8em")
                 .setLabelCaption("Getter")
                 .setType("getter")
+                .setValue("gregreger")
             );
             
             return children;
